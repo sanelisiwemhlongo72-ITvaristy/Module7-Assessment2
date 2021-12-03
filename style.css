@@ -1,0 +1,144 @@
+#home-logo-img{
+    width: 60px;
+    display: block;
+    margin: auto;
+    padding: 25px 10px 10px 10px;
+
+
+}
+#home-logo-text{
+    width: auto;
+    display: block;
+    margin: auto;
+    padding: 25px;
+}
+
+.body-home{
+    background-image: url(images/background3.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.body-meals{
+    background-image: url(images/background3.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.home-menu-items{
+    text-decoration: none;
+    text-transform: uppercase;
+    color:white;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid white;
+    
+
+    display: block;
+    margin-bottom:10px ;
+    margin: auto;
+    width: 85%;
+
+}
+.meals-list a{
+    text-decoration: none;   
+   }
+   .meals-list-items{
+       border:5px solid white;
+       margin: 10px;
+   }
+   
+   .meals-list-items h1{
+       font-weight: bold;
+       font-size: 20px;
+       color:antiquewhite;
+       padding-left: 10px;
+   }
+   
+   .meals-list-items i{
+       float:right;
+       color:black;
+       padding:20px;
+   
+   }
+   
+   .meals-list-items p{
+       font-size: 15px;
+       font-style: italic;
+       color:bisque;
+       margin-top: -7px;
+       padding-left: 10px;
+   }
+
+   .header{
+    background-color:aliceblue;
+    width:100%;
+    height:50px;
+    top:0;
+    position: fixed;
+    overflow: hidden;
+    text-align: center;
+    bottom: 10px;
+}
+
+.header i{
+    float:left;
+    padding: 17px 0px 0px 17px;
+    color:black;
+}
+
+.header img{
+    width:200px;
+    padding-top: 5px;
+    padding-right:20px;
+    
+
+}
+
+.recipe-details img{
+    width:100%;
+
+}
+.recipe-details h1{
+    font-size: 25px;
+    text-align: center;
+    border: 5px solid darkmagenta;
+    margin: 5px;
+    padding:5px;
+    color:darkorchid;
+}
+
+.recipe-details h4{
+    font-size: 20px;
+    text-align: left;
+    margin: 0;
+    margin-left: 10px;
+    color:indigo
+}
+.recipe-details-info {
+    margin-left: 25px;
+    margin-right: 25;
+
+}
+
+.recipe-details-info p{
+    font-size: 13px;
+    display: inline-block;
+    color: black;
+    
+
+}
+p{
+    font-family: sans-serif;
+    font-size: medium;
+    color: black;
+}
+h3{
+    color:white;
+}
